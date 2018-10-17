@@ -1,0 +1,1 @@
+New-item -ItemType File -path c:\ -Name test.txt -Value "hello world"
